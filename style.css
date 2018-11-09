@@ -1,8 +1,14 @@
+
+body {
+  background: darkgrey;
+  font: white;
+}
+
 .wrap {
   margin: 0 auto;
   padding: 30px;
 }
 
 .entryList {
-  
+
 }
